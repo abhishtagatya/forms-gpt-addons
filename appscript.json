@@ -1,0 +1,19 @@
+{
+    "timeZone": "Asia/Jakarta",
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "oauthScopes": [
+      "https://www.googleapis.com/auth/forms",
+      "https://www.googleapis.com/auth/script.container.ui",
+      "https://www.googleapis.com/auth/script.external_request"
+    ],
+    "addOns": {
+      "common": {
+        "name": "FormsGPT - Generate Instantly",
+        "logoUrl": "https://developers.google.com/workspace/add-ons/images/link-icon.png",
+        "layoutProperties": {
+          "primaryColor": "#8A2BE2"
+        }
+      }
+    }
+  }
